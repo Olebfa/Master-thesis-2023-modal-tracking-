@@ -1,0 +1,792 @@
+
+
+###############################################
+Crash log for HB141M-2015-01-15_07-45-24.pkl: 
+HB141M-2015-01-15_07-45-24.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 34.418Gb
+   Free:: 240.377Gb
+   Percentage: 12.53
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-15_09-04-55.pkl: 
+HB141M-2015-01-15_09-04-55.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 34.259Gb
+   Free:: 240.536Gb
+   Percentage: 12.47
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-15_09-40-06.pkl: 
+HB141M-2015-01-15_09-40-06.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 34.758Gb
+   Free:: 240.037Gb
+   Percentage: 12.65
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-15_10-36-55.pkl: 
+HB141M-2015-01-15_10-36-55.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.059Gb
+   Free:: 237.736Gb
+   Percentage: 13.49
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_02-40-14.pkl: 
+HB141M-2015-01-16_02-40-14.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.004Gb
+   Free:: 237.791Gb
+   Percentage: 13.47
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_03-15-00.pkl: 
+HB141M-2015-01-16_03-15-00.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 36.955Gb
+   Free:: 237.84Gb
+   Percentage: 13.45
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_04-16-04.pkl: 
+HB141M-2015-01-16_04-16-04.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.443Gb
+   Free:: 237.353Gb
+   Percentage: 13.63
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_12-57-47.pkl: 
+HB141M-2015-01-16_12-57-47.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.441Gb
+   Free:: 237.355Gb
+   Percentage: 13.63
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_13-28-47.pkl: 
+HB141M-2015-01-16_13-28-47.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.506Gb
+   Free:: 237.29Gb
+   Percentage: 13.65
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_15-35-42.pkl: 
+HB141M-2015-01-16_15-35-42.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.593Gb
+   Free:: 237.203Gb
+   Percentage: 13.68
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_16-10-31.pkl: 
+HB141M-2015-01-16_16-10-31.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.443Gb
+   Free:: 237.353Gb
+   Percentage: 13.63
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_21-07-05.pkl: 
+HB141M-2015-01-16_21-07-05.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.506Gb
+   Free:: 237.29Gb
+   Percentage: 13.65
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-16_21-39-47.pkl: 
+HB141M-2015-01-16_21-39-47.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.469Gb
+   Free:: 237.327Gb
+   Percentage: 13.64
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-21_02-21-27.pkl: 
+HB141M-2015-01-21_02-21-27.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.438Gb
+   Free:: 237.358Gb
+   Percentage: 13.62
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-21_06-43-53.pkl: 
+HB141M-2015-01-21_06-43-53.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.493Gb
+   Free:: 237.303Gb
+   Percentage: 13.64
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-21_07-51-06.pkl: 
+HB141M-2015-01-21_07-51-06.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.513Gb
+   Free:: 237.283Gb
+   Percentage: 13.65
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-21_11-30-54.pkl: 
+HB141M-2015-01-21_11-30-54.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.423Gb
+   Free:: 237.373Gb
+   Percentage: 13.62
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_08-11-55.pkl: 
+HB141M-2015-01-30_08-11-55.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.541Gb
+   Free:: 237.255Gb
+   Percentage: 13.66
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_09-12-53.pkl: 
+HB141M-2015-01-30_09-12-53.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.598Gb
+   Free:: 237.197Gb
+   Percentage: 13.68
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_09-45-36.pkl: 
+HB141M-2015-01-30_09-45-36.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.427Gb
+   Free:: 237.368Gb
+   Percentage: 13.62
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_10-20-22.pkl: 
+HB141M-2015-01-30_10-20-22.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.495Gb
+   Free:: 237.3Gb
+   Percentage: 13.64
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_10-51-22.pkl: 
+HB141M-2015-01-30_10-51-22.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.551Gb
+   Free:: 237.245Gb
+   Percentage: 13.67
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_11-22-49.pkl: 
+HB141M-2015-01-30_11-22-49.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.573Gb
+   Free:: 237.222Gb
+   Percentage: 13.67
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_12-01-25.pkl: 
+HB141M-2015-01-30_12-01-25.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.475Gb
+   Free:: 237.32Gb
+   Percentage: 13.64
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_12-32-25.pkl: 
+HB141M-2015-01-30_12-32-25.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.586Gb
+   Free:: 237.21Gb
+   Percentage: 13.68
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_18-44-37.pkl: 
+HB141M-2015-01-30_18-44-37.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.676Gb
+   Free:: 237.119Gb
+   Percentage: 13.71
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-30_19-48-54.pkl: 
+HB141M-2015-01-30_19-48-54.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.52Gb
+   Free:: 237.276Gb
+   Percentage: 13.65
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_00-18-27.pkl: 
+HB141M-2015-01-31_00-18-27.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.65Gb
+   Free:: 237.146Gb
+   Percentage: 13.7
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_01-11-03.pkl: 
+HB141M-2015-01-31_01-11-03.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.695Gb
+   Free:: 237.1Gb
+   Percentage: 13.72
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_03-25-37.pkl: 
+HB141M-2015-01-31_03-25-37.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.71Gb
+   Free:: 237.086Gb
+   Percentage: 13.72
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_04-11-50.pkl: 
+HB141M-2015-01-31_04-11-50.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.538Gb
+   Free:: 237.258Gb
+   Percentage: 13.66
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_04-47-00.pkl: 
+HB141M-2015-01-31_04-47-00.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.631Gb
+   Free:: 237.164Gb
+   Percentage: 13.69
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+###############################################
+Crash log for HB141M-2015-01-31_06-53-32.pkl: 
+HB141M-2015-01-31_06-53-32.pkl feil: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"
+
+
+Memory status: 
+   Used: 37.656Gb
+   Free:: 237.139Gb
+   Percentage: 13.7
+
+Traceback (most recent call last):
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\run_covssi.py", line 45, in do_cov_ssi_multi
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "C:\Users\olebfa\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\preprosessing\testing\../../src\preposessing.py", line 736, in ts_via_cov_ssi_df
+    data_arr=df[ac_channels].to_numpy(copy=True).T
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\frame.py", line 3813, in __getitem__
+    indexer = self.columns._get_indexer_strict(key, "columns")[1]
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6070, in _get_indexer_strict
+    self._raise_if_missing(keyarr, indexer, axis_name)
+  File "C:\Users\olebfa\AppData\Local\anaconda3\lib\site-packages\pandas\core\indexes\base.py", line 6133, in _raise_if_missing
+    raise KeyError(f"{not_found} not in index")
+KeyError: "['H1 East_x', 'H1 East_y', 'H1 East_z', 'H1 Vest_x', 'H1 Vest_y', 'H1 Vest_z', 'H3 East_x', 'H3 East_y', 'H3 East_z', 'H3 Vest_x', 'H3 Vest_y', 'H3 Vest_z', 'H9 East_x', 'H9 East_y', 'H9 East_z', 'H9 Vest_x', 'H9 Vest_y', 'H9 Vest_z', 'H11 East_x', 'H11 East_y', 'H11 East_z', 'H11 Vest_x', 'H11 Vest_y', 'H11 Vest_z'] not in index"

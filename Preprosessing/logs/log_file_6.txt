@@ -1,0 +1,2020 @@
+
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-30_21-38-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 5.676Gb
+   Free:: 2.48Gb
+   Percentage: 69.59
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-30_22-40-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.046Gb
+   Free:: 1.11Gb
+   Percentage: 86.39
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-30_23-11-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.685Gb
+   Free:: 1.471Gb
+   Percentage: 81.96
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-30_23-42-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.192Gb
+   Free:: 1.964Gb
+   Percentage: 75.92
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_00-13-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.403Gb
+   Free:: 1.753Gb
+   Percentage: 78.51
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_00-44-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.657Gb
+   Free:: 1.499Gb
+   Percentage: 81.62
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_01-15-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.755Gb
+   Free:: 1.401Gb
+   Percentage: 82.82
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_01-46-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.716Gb
+   Free:: 1.44Gb
+   Percentage: 82.35
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_02-17-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.707Gb
+   Free:: 1.449Gb
+   Percentage: 82.23
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_02-48-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.947Gb
+   Free:: 1.209Gb
+   Percentage: 85.18
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_03-50-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.747Gb
+   Free:: 1.409Gb
+   Percentage: 82.73
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_04-21-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.939Gb
+   Free:: 1.217Gb
+   Percentage: 85.08
+
+ssid created and preformed for orders: 
+50 _, 52 _, 54 _, 56 _, 58 _, 60 _, 62 _, 64 _, 66 _, 68 _, 70 _, 72 _, 74 _, 76 _, 78 _, 80 _, 82 _, 84 _, 86 _, 88 _, 90 _, 92 _, 94 _, 96 _, 98 _, 100 _, 102 _, 104 _, 106 _, 108 _, 110 _, 112 _, 114 _, 116 _, 118 _, 120 _, 122 _, 124 _, 126 _, 128 _, 130 _, 132 _, 134 _, 136 _, 138 _, 140 _, 142 _, 144 _, 146 _, 148 _, 150 _, 152 _, 154 _, 156 _, 158 _, 160 _, 162 _, 164 _, 166 _, 168 _, 170 _, 172 _, 174 _, 176 _, 178 _, 180 _, 182 _, 184 _, 186 _, 188 _, 190 _, 192 _, 194 _, 196 _, 198 _, 
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_04-52-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 6.76Gb
+   Free:: 1.396Gb
+   Percentage: 82.89
+
+ssid created and preformed for orders: 
+50 HB141M-2013-12-31_04-52-48.pkl feil: Infinite values found in A
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 775, in ts_via_cov_ssi_df
+    raise ValueError('Infinite values found in A')
+ValueError: Infinite values found in A
+
+Memory status: 
+   Used: 7.532Gb
+   Free:: 0.624Gb
+   Percentage: 92.35
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_05-26-37.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.531Gb
+   Free:: 0.625Gb
+   Percentage: 92.34
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_05-26-37.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.759Gb
+   Free:: 0.397Gb
+   Percentage: 95.13
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_05-57-37.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.26Gb
+   Free:: 0.896Gb
+   Percentage: 89.01
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_05-57-37.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.572Gb
+   Free:: 0.584Gb
+   Percentage: 92.83
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_06-28-37.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.25Gb
+   Free:: 0.906Gb
+   Percentage: 88.89
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_06-28-37.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.575Gb
+   Free:: 0.581Gb
+   Percentage: 92.87
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_07-01-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.265Gb
+   Free:: 0.891Gb
+   Percentage: 89.07
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_07-01-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.591Gb
+   Free:: 0.565Gb
+   Percentage: 93.07
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_07-32-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.267Gb
+   Free:: 0.889Gb
+   Percentage: 89.1
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_07-32-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.588Gb
+   Free:: 0.568Gb
+   Percentage: 93.03
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_08-03-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.269Gb
+   Free:: 0.887Gb
+   Percentage: 89.12
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_08-03-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.583Gb
+   Free:: 0.573Gb
+   Percentage: 92.98
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_08-34-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.265Gb
+   Free:: 0.891Gb
+   Percentage: 89.08
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_08-34-07.pkl feil: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 267, in _T
+    return Yf @ Yp.T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Memory status: 
+   Used: 7.547Gb
+   Free:: 0.609Gb
+   Percentage: 92.53
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_09-05-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.538Gb
+   Free:: 0.619Gb
+   Percentage: 92.42
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_09-05-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.87Gb
+   Free:: 0.286Gb
+   Percentage: 96.49
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_09-36-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.551Gb
+   Free:: 0.605Gb
+   Percentage: 92.58
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_09-36-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.873Gb
+   Free:: 0.283Gb
+   Percentage: 96.53
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_10-07-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.549Gb
+   Free:: 0.607Gb
+   Percentage: 92.56
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_10-07-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.876Gb
+   Free:: 0.28Gb
+   Percentage: 96.56
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_10-38-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.54Gb
+   Free:: 0.616Gb
+   Percentage: 92.45
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_10-38-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.859Gb
+   Free:: 0.297Gb
+   Percentage: 96.35
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_11-09-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.54Gb
+   Free:: 0.616Gb
+   Percentage: 92.45
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_11-09-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.852Gb
+   Free:: 0.304Gb
+   Percentage: 96.27
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_11-40-07.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.529Gb
+   Free:: 0.627Gb
+   Percentage: 92.31
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_11-40-07.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.85Gb
+   Free:: 0.306Gb
+   Percentage: 96.24
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_12-16-58.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.529Gb
+   Free:: 0.627Gb
+   Percentage: 92.31
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_12-16-58.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.862Gb
+   Free:: 0.294Gb
+   Percentage: 96.39
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_14-06-55.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.534Gb
+   Free:: 0.622Gb
+   Percentage: 92.38
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_14-06-55.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.827Gb
+   Free:: 0.329Gb
+   Percentage: 95.96
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_18-45-31.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.504Gb
+   Free:: 0.652Gb
+   Percentage: 92.01
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_18-45-31.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.818Gb
+   Free:: 0.338Gb
+   Percentage: 95.86
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_19-19-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.509Gb
+   Free:: 0.647Gb
+   Percentage: 92.06
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_19-19-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.8Gb
+   Free:: 0.356Gb
+   Percentage: 95.63
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_19-50-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.496Gb
+   Free:: 0.66Gb
+   Percentage: 91.91
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_19-50-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.777Gb
+   Free:: 0.379Gb
+   Percentage: 95.35
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_20-21-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.423Gb
+   Free:: 0.733Gb
+   Percentage: 91.01
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_20-21-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.762Gb
+   Free:: 0.394Gb
+   Percentage: 95.17
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_20-52-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.478Gb
+   Free:: 0.678Gb
+   Percentage: 91.68
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_20-52-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.792Gb
+   Free:: 0.364Gb
+   Percentage: 95.53
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_22-56-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.473Gb
+   Free:: 0.683Gb
+   Percentage: 91.63
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_22-56-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.802Gb
+   Free:: 0.354Gb
+   Percentage: 95.65
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_23-27-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.465Gb
+   Free:: 0.691Gb
+   Percentage: 91.53
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_23-27-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.784Gb
+   Free:: 0.372Gb
+   Percentage: 95.44
+
+ ######################  New test ######################
+
+
+HB141M-2013-12-31_23-58-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.469Gb
+   Free:: 0.687Gb
+   Percentage: 91.58
+
+ssid created and preformed for orders: 
+HB141M-2013-12-31_23-58-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.793Gb
+   Free:: 0.363Gb
+   Percentage: 95.55
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_00-29-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.422Gb
+   Free:: 0.734Gb
+   Percentage: 91.0
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_00-29-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.759Gb
+   Free:: 0.397Gb
+   Percentage: 95.13
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_01-00-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.418Gb
+   Free:: 0.738Gb
+   Percentage: 90.95
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_01-00-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.65Gb
+   Free:: 0.506Gb
+   Percentage: 93.8
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_01-31-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.347Gb
+   Free:: 0.809Gb
+   Percentage: 90.08
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_01-31-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.654Gb
+   Free:: 0.502Gb
+   Percentage: 93.85
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_02-02-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.338Gb
+   Free:: 0.818Gb
+   Percentage: 89.97
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_02-02-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.656Gb
+   Free:: 0.5Gb
+   Percentage: 93.86
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_02-33-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.333Gb
+   Free:: 0.823Gb
+   Percentage: 89.91
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_02-33-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.642Gb
+   Free:: 0.514Gb
+   Percentage: 93.69
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_03-04-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.324Gb
+   Free:: 0.832Gb
+   Percentage: 89.79
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_03-04-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.642Gb
+   Free:: 0.514Gb
+   Percentage: 93.7
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_03-35-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.321Gb
+   Free:: 0.835Gb
+   Percentage: 89.76
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_03-35-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.65Gb
+   Free:: 0.506Gb
+   Percentage: 93.79
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_04-06-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.324Gb
+   Free:: 0.832Gb
+   Percentage: 89.8
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_04-06-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.648Gb
+   Free:: 0.508Gb
+   Percentage: 93.77
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_04-37-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.406Gb
+   Free:: 0.75Gb
+   Percentage: 90.8
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_04-37-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.801Gb
+   Free:: 0.355Gb
+   Percentage: 95.64
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_05-08-40.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.378Gb
+   Free:: 0.778Gb
+   Percentage: 90.46
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_05-08-40.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.65Gb
+   Free:: 0.506Gb
+   Percentage: 93.79
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_05-39-48.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.317Gb
+   Free:: 0.839Gb
+   Percentage: 89.72
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_05-39-48.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.646Gb
+   Free:: 0.511Gb
+   Percentage: 93.74
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_06-15-27.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.338Gb
+   Free:: 0.818Gb
+   Percentage: 89.97
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_06-15-27.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.702Gb
+   Free:: 0.454Gb
+   Percentage: 94.43
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_06-46-27.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.227Gb
+   Free:: 0.929Gb
+   Percentage: 88.6
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_06-46-27.pkl feil: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 267, in _T
+    return Yf @ Yp.T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Memory status: 
+   Used: 7.426Gb
+   Free:: 0.73Gb
+   Percentage: 91.05
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_07-17-27.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.436Gb
+   Free:: 0.72Gb
+   Percentage: 91.18
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_07-17-27.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.707Gb
+   Free:: 0.449Gb
+   Percentage: 94.5
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_07-48-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.449Gb
+   Free:: 0.707Gb
+   Percentage: 91.33
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_07-48-53.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.785Gb
+   Free:: 0.371Gb
+   Percentage: 95.45
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_08-19-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.517Gb
+   Free:: 0.639Gb
+   Percentage: 92.16
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_08-19-53.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.82Gb
+   Free:: 0.336Gb
+   Percentage: 95.88
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_08-50-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.356Gb
+   Free:: 0.8Gb
+   Percentage: 90.19
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_08-50-53.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.708Gb
+   Free:: 0.448Gb
+   Percentage: 94.51
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_09-21-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.414Gb
+   Free:: 0.742Gb
+   Percentage: 90.9
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_09-21-53.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.559Gb
+   Free:: 0.597Gb
+   Percentage: 92.68
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_09-52-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.155Gb
+   Free:: 1.001Gb
+   Percentage: 87.73
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_09-52-53.pkl feil: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 267, in _T
+    return Yf @ Yp.T
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Memory status: 
+   Used: 7.556Gb
+   Free:: 0.6Gb
+   Percentage: 92.65
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_10-23-53.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.515Gb
+   Free:: 0.641Gb
+   Percentage: 92.14
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_10-23-53.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.811Gb
+   Free:: 0.345Gb
+   Percentage: 95.77
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_19-18-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.514Gb
+   Free:: 0.642Gb
+   Percentage: 92.13
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_19-18-44.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 49, in create_block_hankel_matrix
+    H = np.zeros(((r+l)*i, j))
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.516Gb
+   Free:: 0.64Gb
+   Percentage: 92.15
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_19-49-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.475Gb
+   Free:: 0.681Gb
+   Percentage: 91.65
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_19-49-44.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.81Gb
+   Free:: 0.347Gb
+   Percentage: 95.75
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_20-20-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.524Gb
+   Free:: 0.632Gb
+   Percentage: 92.25
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_20-20-44.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.842Gb
+   Free:: 0.314Gb
+   Percentage: 96.15
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_20-51-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.496Gb
+   Free:: 0.66Gb
+   Percentage: 91.9
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_20-51-44.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.849Gb
+   Free:: 0.307Gb
+   Percentage: 96.23
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_21-22-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.5Gb
+   Free:: 0.656Gb
+   Percentage: 91.96
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_21-22-44.pkl feil: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 264, in _T
+    Y = self._Y(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 164, in _Y
+    return create_block_hankel_matrix(
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 55, in create_block_hankel_matrix
+    return 1./np.sqrt(j)*H
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 314. MiB for an array with shape (14400, 2861) and data type float64
+
+Memory status: 
+   Used: 7.818Gb
+   Free:: 0.338Gb
+   Percentage: 95.86
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_21-53-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.494Gb
+   Free:: 0.662Gb
+   Percentage: 91.89
+
+ssid created and preformed for orders: 
+HB141M-2014-01-01_21-53-44.pkl feil: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Traceback (most recent call last):
+  File "C:\Users\olebj\AppData\Local\Temp\ipykernel_13596\2582700620.py", line 11, in <cell line: 1>
+    ts=ts_via_cov_ssi_df(path,orders,depth)
+  File "c:\Users\olebj\OneDrive - NTNU\00Master - Onedrive\OB ymse\modal-tracking-thesis-spring-2023\Preprosessing\../src\preposessing.py", line 769, in ts_via_cov_ssi_df
+    A, C, G, R0 = ssid.perform(order, depth)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 318, in perform
+    U, s, VH = self._svd_block_toeplitz(i)
+  File "c:\Users\olebj\miniconda3\lib\site-packages\strid\_subspaceid.py", line 287, in _svd_block_toeplitz
+    U, s, VH = np.linalg.svd(self._T(i))
+  File "<__array_function__ internals>", line 180, in svd
+  File "c:\Users\olebj\miniconda3\lib\site-packages\numpy\linalg\linalg.py", line 1657, in svd
+    u, s, vh = gufunc(a, signature=signature, extobj=extobj)
+numpy.core._exceptions._ArrayMemoryError: Unable to allocate 396. MiB for an array with shape (7200, 7200) and data type float64
+
+Memory status: 
+   Used: 7.73Gb
+   Free:: 0.426Gb
+   Percentage: 94.78
+
+ ######################  New test ######################
+
+
+HB141M-2014-01-01_22-55-44.pkl:
+Data_arr: (60, 3100)
+Timeseries: (3100,)
+Only finite values found
+Memory status: 
+   Used: 7.94Gb
+   Free:: 0.216Gb
+   Percentage: 97.36
+
+ssid created and preformed for orders: 

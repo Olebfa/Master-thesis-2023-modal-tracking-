@@ -1,0 +1,3 @@
+sns.set_theme(context='paper',font_scale=1.0, style = 'ticks', color_codes='deep')
+plot_kwds = {'alpha' : 0.8, 's' : 100, 'linewidths':0} #called with **plot_kwds as argument in plotting call
+cmap = 'cividis' #Heatmat 

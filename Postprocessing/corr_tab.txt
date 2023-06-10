@@ -1,0 +1,19 @@
+\toprule
+\textbf{Mode}&\textbf{W - f}&\textbf{T - f}&\textbf{W -}$\mathbf{\xi}$&\textbf{T -}$\mathbf{\xi}$&&
+\textbf{Mode}&\textbf{W - f}&\textbf{T - f}&\textbf{W -}$\mathbf{\xi}$&\textbf{T -}$\mathbf{\xi}$ \\
+\midrule
+\textbf{ 1 } H&-&-&-&-&&\textbf{ 15 }  H&-&-&-&-0.32None
+\\\textbf{ 2 } H&-&-&-&-&&\textbf{ 16 }  V&0.48&-0.4&0.38&-None
+\\\textbf{ 3 } V&-&-&0.4&-&&\textbf{ 17 }  P&-&-0.48&-&-None
+\\\textbf{ 4 } V&-&-&0.5&-&&\textbf{ 18 }  P&-&-0.43&-&-None
+\\\textbf{ 5 } H&-&-0.32&-&-&&\textbf{ 19 }  V&0.46&-0.5&0.36&-None
+\\\textbf{ 6 } V&-&-&0.55&-&&\textbf{ 20 }  T&-&-0.59&-&-None
+\\\textbf{ 7 } V&0.42&-&0.5&-&&\textbf{ 21 }  P&0.39&-0.32&-&-None
+\\\textbf{ 8 } V&0.38&-&0.5&-&&\textbf{ 22 }  H&0.35&-0.44&-&-None
+\\\textbf{ 9 } H&-&-&-&-&&\textbf{ 23 }  V&0.38&-0.59&-&-None
+\\\textbf{ 10 } V&0.45&-&0.47&-&&\textbf{ 24 }  V&0.36&-0.6&-&-None
+\\\textbf{ 11 } T&-&-0.47&-&-&&\textbf{ 25 }  V&-&-0.61&-&-None
+\\\textbf{ 12 } V&0.42&-0.37&0.45&-&&\textbf{ 26 }  T&-&-0.55&-&-None
+\\\textbf{ 13 } H&-&-0.33&-&-&&\textbf{ 27 }  V&-&-0.69&-&-None
+\\\textbf{ 14 } H&-&-0.45&0.32&-&&\textbf{ 28 }  V&-&-0.41&-&-None
+\\\bottomrule

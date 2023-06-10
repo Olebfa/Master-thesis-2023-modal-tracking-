@@ -1,0 +1,1016 @@
+Initated
+
+
+Appended ModeTrace nr. 0 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 1 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 2 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 3 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 4 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 5 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 6 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 7 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 8 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 9 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 10 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 11 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 12 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 13 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 14 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 15 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 16 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 17 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 18 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 19 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 20 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 21 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 22 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 23 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 24 to mode_traces
+		 Current runtime: 0s
+
+Appended ModeTrace nr. 25 to mode_traces
+		 Current runtime: 0s
+
+Starting segment nr. 0
+		 Current runtime: 0s
+
+Starting segment nr. 1
+		 Current runtime: 0s
+
+Starting segment nr. 2
+		 Current runtime: 0s
+
+Starting segment nr. 3
+		 Current runtime: 0s
+
+Starting segment nr. 4
+		 Current runtime: 0s
+
+Starting segment nr. 5
+		 Current runtime: 0s
+
+Starting segment nr. 6
+		 Current runtime: 0s
+
+Starting segment nr. 7
+		 Current runtime: 0s
+
+Starting segment nr. 8
+		 Current runtime: 0s
+
+Starting segment nr. 9
+		 Current runtime: 1s
+
+Starting segment nr. 10
+		 Current runtime: 1s
+
+Starting segment nr. 11
+		 Current runtime: 1s
+
+Starting segment nr. 12
+		 Current runtime: 1s
+
+Starting segment nr. 13
+		 Current runtime: 1s
+
+Starting segment nr. 14
+		 Current runtime: 1s
+
+Starting segment nr. 15
+		 Current runtime: 1s
+
+Starting segment nr. 16
+		 Current runtime: 1s
+
+Starting segment nr. 17
+		 Current runtime: 1s
+
+Starting segment nr. 18
+		 Current runtime: 2s
+
+Starting segment nr. 19
+		 Current runtime: 2s
+
+Starting segment nr. 20
+		 Current runtime: 2s
+
+Starting segment nr. 21
+		 Current runtime: 2s
+
+Starting segment nr. 22
+		 Current runtime: 2s
+
+Starting segment nr. 23
+		 Current runtime: 3s
+
+Starting segment nr. 24
+		 Current runtime: 3s
+
+Starting segment nr. 25
+		 Current runtime: 3s
+
+Starting segment nr. 26
+		 Current runtime: 3s
+
+Starting segment nr. 27
+		 Current runtime: 3s
+
+Starting segment nr. 28
+		 Current runtime: 3s
+
+Starting segment nr. 29
+		 Current runtime: 4s
+
+Starting segment nr. 30
+		 Current runtime: 4s
+
+Starting segment nr. 31
+		 Current runtime: 4s
+
+Starting segment nr. 32
+		 Current runtime: 4s
+
+Starting segment nr. 33
+		 Current runtime: 5s
+
+Starting segment nr. 34
+		 Current runtime: 5s
+
+Starting segment nr. 35
+		 Current runtime: 5s
+
+Starting segment nr. 36
+		 Current runtime: 6s
+
+Starting segment nr. 37
+		 Current runtime: 6s
+
+Starting segment nr. 38
+		 Current runtime: 6s
+
+Starting segment nr. 39
+		 Current runtime: 6s
+
+Starting segment nr. 40
+		 Current runtime: 7s
+
+Starting segment nr. 41
+		 Current runtime: 7s
+
+Starting segment nr. 42
+		 Current runtime: 7s
+
+Starting segment nr. 43
+		 Current runtime: 8s
+
+Starting segment nr. 44
+		 Current runtime: 8s
+
+Starting segment nr. 45
+		 Current runtime: 8s
+
+Starting segment nr. 46
+		 Current runtime: 8s
+
+Starting segment nr. 47
+		 Current runtime: 9s
+
+Starting segment nr. 48
+		 Current runtime: 9s
+
+Starting segment nr. 49
+		 Current runtime: 9s
+
+Starting segment nr. 50
+		 Current runtime: 10s
+
+Starting segment nr. 51
+		 Current runtime: 10s
+
+Starting segment nr. 52
+		 Current runtime: 10s
+
+Starting segment nr. 53
+		 Current runtime: 11s
+
+Starting segment nr. 54
+		 Current runtime: 11s
+
+Starting segment nr. 55
+		 Current runtime: 11s
+
+Starting segment nr. 56
+		 Current runtime: 12s
+
+Starting segment nr. 57
+		 Current runtime: 12s
+
+Starting segment nr. 58
+		 Current runtime: 12s
+
+Starting segment nr. 59
+		 Current runtime: 13s
+
+Starting segment nr. 60
+		 Current runtime: 13s
+
+Starting segment nr. 61
+		 Current runtime: 13s
+
+Starting segment nr. 62
+		 Current runtime: 14s
+
+Starting segment nr. 63
+		 Current runtime: 14s
+
+Starting segment nr. 64
+		 Current runtime: 15s
+
+Starting segment nr. 65
+		 Current runtime: 15s
+
+Starting segment nr. 66
+		 Current runtime: 15s
+
+Starting segment nr. 67
+		 Current runtime: 16s
+
+Starting segment nr. 68
+		 Current runtime: 16s
+
+Starting segment nr. 69
+		 Current runtime: 17s
+
+Starting segment nr. 70
+		 Current runtime: 17s
+
+Starting segment nr. 71
+		 Current runtime: 17s
+
+Starting segment nr. 72
+		 Current runtime: 18s
+
+Starting segment nr. 73
+		 Current runtime: 18s
+
+Starting segment nr. 74
+		 Current runtime: 19s
+
+Starting segment nr. 75
+		 Current runtime: 19s
+
+Starting segment nr. 76
+		 Current runtime: 19s
+
+Starting segment nr. 77
+		 Current runtime: 20s
+
+Starting segment nr. 78
+		 Current runtime: 20s
+
+Starting segment nr. 79
+		 Current runtime: 21s
+
+Starting segment nr. 80
+		 Current runtime: 21s
+
+Starting segment nr. 81
+		 Current runtime: 22s
+
+Starting segment nr. 82
+		 Current runtime: 22s
+
+Starting segment nr. 83
+		 Current runtime: 23s
+
+Starting segment nr. 84
+		 Current runtime: 23s
+
+Starting segment nr. 85
+		 Current runtime: 24s
+
+Starting segment nr. 86
+		 Current runtime: 24s
+
+Starting segment nr. 87
+		 Current runtime: 25s
+
+Starting segment nr. 88
+		 Current runtime: 25s
+
+Starting segment nr. 89
+		 Current runtime: 26s
+
+Starting segment nr. 90
+		 Current runtime: 26s
+
+Starting segment nr. 91
+		 Current runtime: 27s
+
+Starting segment nr. 92
+		 Current runtime: 27s
+
+Starting segment nr. 93
+		 Current runtime: 28s
+
+Starting segment nr. 94
+		 Current runtime: 28s
+
+Starting segment nr. 95
+		 Current runtime: 29s
+
+Starting segment nr. 96
+		 Current runtime: 29s
+
+Starting segment nr. 97
+		 Current runtime: 30s
+
+Starting segment nr. 98
+		 Current runtime: 30s
+
+Starting segment nr. 99
+		 Current runtime: 31s
+
+Starting segment nr. 100
+		 Current runtime: 31s
+
+Starting segment nr. 101
+		 Current runtime: 32s
+
+Starting segment nr. 102
+		 Current runtime: 32s
+
+Starting segment nr. 103
+		 Current runtime: 33s
+
+Starting segment nr. 104
+		 Current runtime: 33s
+
+Starting segment nr. 105
+		 Current runtime: 34s
+
+Starting segment nr. 106
+		 Current runtime: 34s
+
+Starting segment nr. 107
+		 Current runtime: 35s
+
+Starting segment nr. 108
+		 Current runtime: 36s
+
+Starting segment nr. 109
+		 Current runtime: 36s
+
+Starting segment nr. 110
+		 Current runtime: 37s
+
+Starting segment nr. 111
+		 Current runtime: 37s
+
+Starting segment nr. 112
+		 Current runtime: 38s
+
+Starting segment nr. 113
+		 Current runtime: 38s
+
+Starting segment nr. 114
+		 Current runtime: 39s
+
+Starting segment nr. 115
+		 Current runtime: 40s
+
+Starting segment nr. 116
+		 Current runtime: 40s
+
+Starting segment nr. 117
+		 Current runtime: 41s
+
+Starting segment nr. 118
+		 Current runtime: 41s
+
+Starting segment nr. 119
+		 Current runtime: 42s
+
+Starting segment nr. 120
+		 Current runtime: 42s
+
+Starting segment nr. 121
+		 Current runtime: 43s
+
+Starting segment nr. 122
+		 Current runtime: 44s
+
+Starting segment nr. 123
+		 Current runtime: 45s
+
+Starting segment nr. 124
+		 Current runtime: 45s
+
+Starting segment nr. 125
+		 Current runtime: 46s
+
+Starting segment nr. 126
+		 Current runtime: 46s
+
+Starting segment nr. 127
+		 Current runtime: 47s
+
+Starting segment nr. 128
+		 Current runtime: 48s
+
+Starting segment nr. 129
+		 Current runtime: 48s
+
+Starting segment nr. 130
+		 Current runtime: 49s
+
+Starting segment nr. 131
+		 Current runtime: 49s
+
+Starting segment nr. 132
+		 Current runtime: 50s
+
+Starting segment nr. 133
+		 Current runtime: 51s
+
+Starting segment nr. 134
+		 Current runtime: 52s
+
+Starting segment nr. 135
+		 Current runtime: 53s
+
+Starting segment nr. 136
+		 Current runtime: 53s
+
+Starting segment nr. 137
+		 Current runtime: 54s
+
+Starting segment nr. 138
+		 Current runtime: 55s
+
+Starting segment nr. 139
+		 Current runtime: 55s
+
+Starting segment nr. 140
+		 Current runtime: 56s
+
+Starting segment nr. 141
+		 Current runtime: 57s
+
+Starting segment nr. 142
+		 Current runtime: 58s
+
+Starting segment nr. 143
+		 Current runtime: 58s
+
+Starting segment nr. 144
+		 Current runtime: 59s
+
+Starting segment nr. 145
+		 Current runtime: 60s
+
+Starting segment nr. 146
+		 Current runtime: 60s
+
+Starting segment nr. 147
+		 Current runtime: 61s
+
+Starting segment nr. 148
+		 Current runtime: 62s
+
+Starting segment nr. 149
+		 Current runtime: 63s
+
+Starting segment nr. 150
+		 Current runtime: 63s
+
+Starting segment nr. 151
+		 Current runtime: 64s
+
+Starting segment nr. 152
+		 Current runtime: 65s
+
+Starting segment nr. 153
+		 Current runtime: 66s
+
+Starting segment nr. 154
+		 Current runtime: 66s
+
+Starting segment nr. 155
+		 Current runtime: 67s
+
+Starting segment nr. 156
+		 Current runtime: 68s
+
+Starting segment nr. 157
+		 Current runtime: 68s
+
+Starting segment nr. 158
+		 Current runtime: 69s
+
+Starting segment nr. 159
+		 Current runtime: 70s
+
+Starting segment nr. 160
+		 Current runtime: 71s
+
+Starting segment nr. 161
+		 Current runtime: 71s
+
+Starting segment nr. 162
+		 Current runtime: 72s
+
+Starting segment nr. 163
+		 Current runtime: 73s
+
+Starting segment nr. 164
+		 Current runtime: 74s
+
+Starting segment nr. 165
+		 Current runtime: 74s
+
+Starting segment nr. 166
+		 Current runtime: 75s
+
+Starting segment nr. 167
+		 Current runtime: 76s
+
+Starting segment nr. 168
+		 Current runtime: 77s
+
+Starting segment nr. 169
+		 Current runtime: 78s
+
+Starting segment nr. 170
+		 Current runtime: 78s
+
+Starting segment nr. 171
+		 Current runtime: 79s
+
+Starting segment nr. 172
+		 Current runtime: 80s
+
+Starting segment nr. 173
+		 Current runtime: 81s
+
+Starting segment nr. 174
+		 Current runtime: 82s
+
+Starting segment nr. 175
+		 Current runtime: 83s
+
+Starting segment nr. 176
+		 Current runtime: 83s
+
+Starting segment nr. 177
+		 Current runtime: 84s
+
+Starting segment nr. 178
+		 Current runtime: 85s
+
+Starting segment nr. 179
+		 Current runtime: 86s
+
+Starting segment nr. 180
+		 Current runtime: 87s
+
+Starting segment nr. 181
+		 Current runtime: 88s
+
+Starting segment nr. 182
+		 Current runtime: 89s
+
+Starting segment nr. 183
+		 Current runtime: 89s
+
+Starting segment nr. 184
+		 Current runtime: 90s
+
+Starting segment nr. 185
+		 Current runtime: 91s
+
+Starting segment nr. 186
+		 Current runtime: 92s
+
+Starting segment nr. 187
+		 Current runtime: 93s
+
+Starting segment nr. 188
+		 Current runtime: 94s
+
+Starting segment nr. 189
+		 Current runtime: 95s
+
+Starting segment nr. 190
+		 Current runtime: 96s
+
+Starting segment nr. 191
+		 Current runtime: 96s
+
+Starting segment nr. 192
+		 Current runtime: 98s
+
+Starting segment nr. 193
+		 Current runtime: 98s
+
+Starting segment nr. 194
+		 Current runtime: 99s
+
+Starting segment nr. 195
+		 Current runtime: 100s
+
+Starting segment nr. 196
+		 Current runtime: 101s
+
+Starting segment nr. 197
+		 Current runtime: 102s
+
+Starting segment nr. 198
+		 Current runtime: 103s
+
+Starting segment nr. 199
+		 Current runtime: 104s
+
+Starting segment nr. 200
+		 Current runtime: 105s
+
+Starting segment nr. 201
+		 Current runtime: 106s
+
+Starting segment nr. 202
+		 Current runtime: 107s
+
+Starting segment nr. 203
+		 Current runtime: 108s
+
+Starting segment nr. 204
+		 Current runtime: 109s
+
+Starting segment nr. 205
+		 Current runtime: 110s
+
+Starting segment nr. 206
+		 Current runtime: 111s
+
+Starting segment nr. 207
+		 Current runtime: 112s
+
+Starting segment nr. 208
+		 Current runtime: 113s
+
+Starting segment nr. 209
+		 Current runtime: 114s
+
+Starting segment nr. 210
+		 Current runtime: 115s
+
+Starting segment nr. 211
+		 Current runtime: 116s
+
+Starting segment nr. 212
+		 Current runtime: 117s
+
+Starting segment nr. 213
+		 Current runtime: 118s
+
+Starting segment nr. 214
+		 Current runtime: 119s
+
+Starting segment nr. 215
+		 Current runtime: 120s
+
+Starting segment nr. 216
+		 Current runtime: 121s
+
+Starting segment nr. 217
+		 Current runtime: 122s
+
+Starting segment nr. 218
+		 Current runtime: 123s
+
+Starting segment nr. 219
+		 Current runtime: 124s
+
+Starting segment nr. 220
+		 Current runtime: 125s
+
+Starting segment nr. 221
+		 Current runtime: 126s
+
+Starting segment nr. 222
+		 Current runtime: 127s
+
+Starting segment nr. 223
+		 Current runtime: 128s
+
+Starting segment nr. 224
+		 Current runtime: 129s
+
+Starting segment nr. 225
+		 Current runtime: 130s
+
+Starting segment nr. 226
+		 Current runtime: 131s
+
+Starting segment nr. 227
+		 Current runtime: 132s
+
+Starting segment nr. 228
+		 Current runtime: 133s
+
+Starting segment nr. 229
+		 Current runtime: 134s
+
+Starting segment nr. 230
+		 Current runtime: 135s
+
+Starting segment nr. 231
+		 Current runtime: 136s
+
+Starting segment nr. 232
+		 Current runtime: 137s
+
+Starting segment nr. 233
+		 Current runtime: 138s
+
+Starting segment nr. 234
+		 Current runtime: 139s
+
+Starting segment nr. 235
+		 Current runtime: 140s
+
+Starting segment nr. 236
+		 Current runtime: 141s
+
+Starting segment nr. 237
+		 Current runtime: 142s
+
+Starting segment nr. 238
+		 Current runtime: 143s
+
+Starting segment nr. 239
+		 Current runtime: 144s
+
+Starting segment nr. 240
+		 Current runtime: 145s
+
+Starting segment nr. 241
+		 Current runtime: 146s
+
+Starting segment nr. 242
+		 Current runtime: 148s
+
+Starting segment nr. 243
+		 Current runtime: 149s
+
+Starting segment nr. 244
+		 Current runtime: 150s
+
+Starting segment nr. 245
+		 Current runtime: 151s
+
+Starting segment nr. 246
+		 Current runtime: 152s
+
+Starting segment nr. 247
+		 Current runtime: 153s
+
+Starting segment nr. 248
+		 Current runtime: 154s
+
+Starting segment nr. 249
+		 Current runtime: 155s
+
+Starting segment nr. 250
+		 Current runtime: 156s
+
+Starting segment nr. 251
+		 Current runtime: 157s
+
+Starting segment nr. 252
+		 Current runtime: 158s
+
+Starting segment nr. 253
+		 Current runtime: 159s
+
+Starting segment nr. 254
+		 Current runtime: 160s
+
+Starting segment nr. 255
+		 Current runtime: 161s
+
+Starting segment nr. 256
+		 Current runtime: 163s
+
+Starting segment nr. 257
+		 Current runtime: 164s
+
+Starting segment nr. 258
+		 Current runtime: 165s
+
+Starting segment nr. 259
+		 Current runtime: 166s
+
+Starting segment nr. 260
+		 Current runtime: 167s
+
+Starting segment nr. 261
+		 Current runtime: 168s
+
+Starting segment nr. 262
+		 Current runtime: 169s
+
+Starting segment nr. 263
+		 Current runtime: 170s
+
+Starting segment nr. 264
+		 Current runtime: 172s
+
+Starting segment nr. 265
+		 Current runtime: 173s
+
+Starting segment nr. 266
+		 Current runtime: 174s
+
+Starting segment nr. 267
+		 Current runtime: 175s
+
+Starting segment nr. 268
+		 Current runtime: 176s
+
+Starting segment nr. 269
+		 Current runtime: 177s
+
+Starting segment nr. 270
+		 Current runtime: 179s
+
+Starting segment nr. 271
+		 Current runtime: 180s
+
+Starting segment nr. 272
+		 Current runtime: 181s
+
+Starting segment nr. 273
+		 Current runtime: 182s
+
+Starting segment nr. 274
+		 Current runtime: 184s
+
+Starting segment nr. 275
+		 Current runtime: 185s
+
+Starting segment nr. 276
+		 Current runtime: 186s
+
+Starting segment nr. 277
+		 Current runtime: 187s
+
+Starting segment nr. 278
+		 Current runtime: 188s
+
+Starting segment nr. 279
+		 Current runtime: 190s
+
+Starting segment nr. 280
+		 Current runtime: 191s
+
+Starting segment nr. 281
+		 Current runtime: 192s
+
+Starting segment nr. 282
+		 Current runtime: 194s
+
+Starting segment nr. 283
+		 Current runtime: 195s
+
+Starting segment nr. 284
+		 Current runtime: 196s
+
+Starting segment nr. 285
+		 Current runtime: 197s
+
+Starting segment nr. 286
+		 Current runtime: 198s
+
+Starting segment nr. 287
+		 Current runtime: 199s
+
+Starting segment nr. 288
+		 Current runtime: 201s
+
+Starting segment nr. 289
+		 Current runtime: 202s
+
+Starting segment nr. 290
+		 Current runtime: 203s
+
+Starting segment nr. 291
+		 Current runtime: 204s
+
+Starting segment nr. 292
+		 Current runtime: 206s
+
+Starting segment nr. 293
+		 Current runtime: 207s
+
+Starting segment nr. 294
+		 Current runtime: 208s
+
+Starting segment nr. 295
+		 Current runtime: 209s
+
+Starting segment nr. 296
+		 Current runtime: 211s
+
+Starting segment nr. 297
+		 Current runtime: 212s
+
+Starting segment nr. 298
+		 Current runtime: 213s
+
+Starting segment nr. 299
+		 Current runtime: 214s
+
+Starting segment nr. 300
+		 Current runtime: 215s
+
+Starting segment nr. 301
+		 Current runtime: 216s
+
+Starting segment nr. 302
+		 Current runtime: 217s
+
+Starting segment nr. 303
+		 Current runtime: 218s
+
+Starting segment nr. 304
+		 Current runtime: 220s
+
+Starting segment nr. 305
+		 Current runtime: 221s
+
+Starting segment nr. 306
+		 Current runtime: 222s
+
+Starting segment nr. 307
+		 Current runtime: 224s
+
+Starting segment nr. 308
+		 Current runtime: 225s
+
+Starting segment nr. 309
+		 Current runtime: 226s
+
+Starting segment nr. 310
+		 Current runtime: 228s
+
+Starting segment nr. 311
+		 Current runtime: 229s
