@@ -10,6 +10,7 @@ import matplotlib.colors as mc
 import matplotlib.cm as cm
 import pickle
 import matplotlib.image as im
+import matplotlib.animation as animation
 
 from matplotlib.widgets import Slider, Button,TextBox
 
@@ -422,6 +423,7 @@ class mode_plot():
             if 1/fps > (time.time()-t0):
                 time.sleep(1/fps-(time.time()-t0))
                 
+                
     def next_mode(self,event):
         self.change_mode(self.current_mode+1)
 
@@ -467,8 +469,9 @@ class mode_plot():
         for ax in self.fig.axes:
             if ax != self.ax:
                 ax.set_visible(True)
-            
 
+                
+                
     def report_figure(self,n,freq,damp,n_ids,*args,col=None):
         self.rep_fig=plt.figure(figsize=(7,2)
                                 )
@@ -536,7 +539,64 @@ class mode_plot():
             phi_indices = range(len(freqs))
 
         for mode_ix,freq,damp in zip(phi_indices,freqs,damps):
-
             self.change_mode(mode_ix)
             self.report_figure(mode_ix+1,freq,damp) 
+            
+    def create_GIF_ts(self,ts,fps,file_name):
+        #camera orientation: 
+        
+        self.t_slider.set_val(1)
+        for ax in self.fig.axes:
+            if ax != self.ax:
+                ax.set_visible(False)
+        elev,azim,roll=10,-20,0
+        self.ax.view_init(elev=elev, azim=azim, roll=roll)
+        
+        self.ax.set_box_aspect(aspect=(100,35,3),zoom=1.2)
+
+
+        ani = animation.FuncAnimation(self.fig, self.next_frame, 
+                                    frames=ts, interval=20)
+        
+        writer = animation.PillowWriter(fps=fps,
+                                        metadata=dict(artist='Me'),
+                                        bitrate=1800)
+
+        ani.save(file_name,writer=writer)
+
+        for ax in self.fig.axes:
+            if ax != self.ax:
+                ax.set_visible(True) 
+    def next_frame(self,coords):
+        self.phi=coords
+        self.update_DOFs(coords)
+
+    def create_GIF_mode(self,mode_nr,fps,file_name):
+        #camera orientation: 
+        t=np.linspace(0,2*np.pi,100)
+        fac=np.sin(t)
+        self.change_mode(mode_nr)
+        for ax in self.fig.axes:
+            if ax != self.ax:
+                ax.set_visible(False)
+        elev,azim,roll=10,-20,0
+        self.ax.view_init(elev=elev, azim=azim, roll=roll)
+        self.ax.set_box_aspect(aspect=(100,35,3),zoom=1.2)
+
+        ani = animation.FuncAnimation(self.fig,self.t_slider.set_val , 
+
+                                    frames=fac, interval=20)
+        
+        writer = animation.PillowWriter(fps=fps,
+                                        metadata=dict(artist='Me'),
+                                        bitrate=1800)
+
+        ani.save(file_name,writer=writer)
+
+        for ax in self.fig.axes:
+            if ax != self.ax:
+                ax.set_visible(True) 
+        
+        
+        
 

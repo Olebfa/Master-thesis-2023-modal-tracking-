@@ -4,10 +4,10 @@ import numpy as np
 import matplotlib.pyplot as plt
 import pickle
 from scipy import signal
-from scipy import stats
-import koma.oma
-import strid
-import koma.clustering
+# from scipy import stats
+# import koma.oma
+# import strid
+# import koma.clustering
 import pandas as pd
 import warnings
 from datetime import datetime
