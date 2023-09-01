@@ -571,15 +571,17 @@ class mode_plot():
         self.phi=coords
         self.update_DOFs(coords)
 
-    def create_GIF_mode(self,mode_nr,fps,file_name):
+    def create_GIF_mode(self,mode_nr,fps,frames):
         #camera orientation: 
-        t=np.linspace(0,2*np.pi,100)
+        t=np.linspace(0,2*np.pi,frames)
+
         fac=np.sin(t)
         self.change_mode(mode_nr)
         for ax in self.fig.axes:
             if ax != self.ax:
                 ax.set_visible(False)
-        elev,azim,roll=10,-20,0
+        elev,azim,roll=8,-15,0
+
         self.ax.view_init(elev=elev, azim=azim, roll=roll)
         self.ax.set_box_aspect(aspect=(100,35,3),zoom=1.2)
 
@@ -590,8 +592,8 @@ class mode_plot():
         writer = animation.PillowWriter(fps=fps,
                                         metadata=dict(artist='Me'),
                                         bitrate=1800)
-
-        ani.save(file_name,writer=writer)
+        fname='mode_'+str(int(mode_nr+1))+'.gif'
+        ani.save(fname,writer=writer)
 
         for ax in self.fig.axes:
             if ax != self.ax:
